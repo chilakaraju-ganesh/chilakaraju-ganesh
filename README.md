@@ -13,7 +13,6 @@ A passionate frontend web developer from India.
 ![JavaScript](https://img.shields.io/static/v1?message=JavaScript&logo=javascript&label=&color=F7DF1E&logoColor=white&labelColor=&style=for-the-badge)
 ![Bootstrap](https://img.shields.io/static/v1?message=Bootstrap&logo=bootstrap&label=&color=7952B3&logoColor=white&labelColor=&style=for-the-badge)
 ![React](https://img.shields.io/static/v1?message=React&logo=react&label=&color=61DAFB&logoColor=white&labelColor=&style=for-the-badge)
-![Redux](https://img.shields.io/static/v1?message=Redux&logo=redux&label=&color=764ABC&logoColor=white&labelColor=&style=for-the-badge)
 ![Tailwind CSS](https://img.shields.io/static/v1?message=Tailwind+CSS&logo=tailwind-css&label=&color=06B6D4&logoColor=white&labelColor=&style=for-the-badge)
 
 ## 📊 GitHub Stats:
