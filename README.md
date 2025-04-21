@@ -1,4 +1,4 @@
-# Hi there, I'm Ganesh Chilakaraju 👋
+# Hi there, I'm Ganesh 👋
 
 A passionate frontend web developer from India.
 
