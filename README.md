@@ -1,6 +1,6 @@
 # Hi there, I'm Ganesh 👋
 
-A passionate frontend web developer from India.
+A passionate web developer from India.
 
 ## 🌐 Socials:
 
